@@ -1,0 +1,14 @@
+#Contador
+#f'{}'
+#%s
+
+#range len
+
+
+lista=[2,6,1,23,6,8,1]
+for x in lista:
+    c=c+1
+
+    print(f"o{c}º valor da lista é {x}")
+    
+  
